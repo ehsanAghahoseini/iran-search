@@ -1,0 +1,31 @@
+{
+  "name": "iran-search",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "flickity": "^2.2.1",
+    "fs": "^0.0.1-security",
+    "jalali-moment": "^3.3.10",
+    "next": "11.1.0",
+    "next-pwa": "^5.3.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-flickity-component": "^3.6.1",
+    "react-modal": "^3.14.3"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}
